@@ -1,4 +1,7 @@
 #ANIMEVERSE
+<img width="960" height="458" alt="image" src="https://github.com/user-attachments/assets/5ca10a53-4c77-4a90-87d0-2181d3c968dc" />
+
+
 A simple anime discovery web app I built with HTML, CSS, and JavaScript. Shows random anime on the homepage plus lists of trending and highest rated shows.
 
 #What it does
