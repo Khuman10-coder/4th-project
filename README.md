@@ -1,30 +1,23 @@
-#ANIMEVERSE
+# ANIMEVERSE-A anime website
+
+# Features
+1) List of some of the highest rated animes
+2) List of some of the trending animes
+
+# How to run
+1) clone the repo
+2) open the web:- Open index.html in your browser
+3) Enjoy the web
+https://preeminent-kataifi-215a1e.netlify.app/trending
+
+# Built with
+ HTML5 , CSS3
+
+ #  Demo pictures
 <img width="960" height="458" alt="image" src="https://github.com/user-attachments/assets/5ca10a53-4c77-4a90-87d0-2181d3c968dc" />
 
 
-A simple anime discovery web app I built with HTML, CSS, and JavaScript. Shows random anime on the homepage plus lists of trending and highest rated shows.
+ # MADE BY
+ - It is made by Khuman Adhikari(me ofc).
 
-#What it does
-Homepage - Shows random anime recommendations every time you visit
-
-Trending - 8 currently popular anime series
-
-Top Rated - 8 highest rated anime of all time
-
-#Built with
-Plain HTML, CSS, and JavaScript. Only external stuff is Font Awesome for icons and Google Fonts. No frameworks because I wanted to keep it lightweight.
-
-#How to run
-Just open index.html in your browser. No server needed, no installs.
-
-#The data
-Hardcoded everything in script.js based on MyAnimeList scores and what's trending on social media. Took a while to pick which ones to include tbh.
-
-#What broke
-The grid layout on mobile. Had to mess with flexbox for way too long before it worked properly. Still not perfect but good enough.
-#What's next
-Search bar (halfway done actually)
-User ratings
-Maybe fetch from an API later but that's too much work rn
-#Built this over a couple weekends to practice frontend. Nothing special but it works. Also yes I know the code could be cleaner lol
-
+## Enjoy the web
