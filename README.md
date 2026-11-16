@@ -8,6 +8,7 @@
 1) clone the repo
 2) open the web:- Open index.html in your browser
 3) Enjoy the web
+   
 https://preeminent-kataifi-215a1e.netlify.app/trending
 
 # Built with
