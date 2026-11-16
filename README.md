@@ -17,6 +17,11 @@ https://preeminent-kataifi-215a1e.netlify.app/trending
  #  Demo pictures
 <img width="960" height="458" alt="image" src="https://github.com/user-attachments/assets/5ca10a53-4c77-4a90-87d0-2181d3c968dc" />
 
+<img width="1349" height="685" alt="{24EBA030-7AA6-4928-8537-1917FB6022BF}" src="https://github.com/user-attachments/assets/1bcce63e-610e-4b86-a309-d61010b92826" />
+
+<img width="1351" height="688" alt="{D852AAD5-3C00-4159-917D-9A373A59678E}" src="https://github.com/user-attachments/assets/8f8d1109-b5b6-4741-b398-a7256b60e113" />
+
+
 
  # MADE BY
  - It is made by Khuman Adhikari(me ofc).
