@@ -1,5 +1,5 @@
 # ANIMEVERSE
--A anime website that contains some basic info about some of the popular animes like AOT , Naruto , JJK , etc . It also includes the list of some of the most trending animes and the highest rated ones.
+-A anime website that contains some basic info about some of the popular animes like AOT , Naruto , JJK , etc . It also includes the list of some of the most trending animes and the highest rated ones. the list of the trending animes include Dandadan , Kaiju no.8 , My Dress-Up Darling , Sakamoto Days Part 2 etc  while, the list of the highest rated animes include Fullmetal Alchemist , Frieren , Steins;Gate , Attack on Titan , etc.
 
 # Features
 1) List of some of the highest rated animes
