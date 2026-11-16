@@ -1,4 +1,5 @@
-# ANIMEVERSE-A anime website
+# ANIMEVERSE
+-A anime website that contains some basic info about some of the popular animes like AOT , Naruto , JJK , etc . It also includes the list of some of the most trending animes and the highest rated ones.
 
 # Features
 1) List of some of the highest rated animes
